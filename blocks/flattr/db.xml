@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="btFlattr">
+		<field name="bID" type="I">
+			<key />
+			<unsigned />
+		</field>
+		<field name="title" type="X2">
+		</field>
+		<field name="description" type="X2">
+		</field>
+		<field name="uid" type="X2">
+		</field>
+		<field name="category" type="X2">
+		</field>
+		<field name="language" type="X2">
+		</field>
+		<field name="tags" type="X2">
+		</field>
+		<field name="url" type="X2">
+		</field>
+		<field name="hidden" type="L">
+		</field>
+	</table>
+</schema>
